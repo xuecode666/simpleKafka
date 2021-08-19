@@ -1,0 +1,7 @@
+kafka:
+  bootstrap-servers: 172.17.76.105:9092
+server:
+  port: 8089
+#  bootstrap-servers: 10.33.40.37:29092
+
+
